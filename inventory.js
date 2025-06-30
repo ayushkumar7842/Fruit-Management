@@ -1,1 +1,1 @@
-const inventory = ["apples", "oranges", "bananas"];
+const inventory = ["apples", "oranges", "bananas", "grapes"];
