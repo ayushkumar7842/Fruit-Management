@@ -1,0 +1,1 @@
+const inventory = ["apples", "oranges"];
